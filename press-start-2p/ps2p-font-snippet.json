@@ -1,7 +1,7 @@
 {
     "spec": 1,
-    "name": "VT323",
-    "previewText": "This font was created from the glyphs of the DEC VT320 text terminal, which the creator used in college, and for which the creator has retained an unaccountable nostalgia.",
+    "name": "Press Start 2P",
+    "previewText": "Press Start 2P is a bitmap font based on the font design from 1980s Namco arcade games.",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/system-failure-b8xy/kettu-fonts/raw/main/press-start-2p/PressStart2P-ExtraBold.ttf?raw=1",
         "ggsans-Bold": "https://github.com/system-failure-b8xy/kettu-fonts/raw/main/press-start-2p/PressStart2P-Bold.ttf?raw=1",
